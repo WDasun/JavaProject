@@ -11,11 +11,20 @@ package githubtest;
  */
 public class GitHubTest {
 
+    int i;
+    String name;
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("My First Test");
+        
+        GitHubTest gt = new GitHubTest();
+        gt.change();
+        
+    }
+    
+    void change (){
+        System.out.println("kkksa");
     }
     
 }
