@@ -24,7 +24,7 @@ public class GitHubTest {
     }
     
     void change (){
-        System.out.println("kkksa");
+        System.out.println("Dasun Wimukthi Withanage");
     }
     
 }
